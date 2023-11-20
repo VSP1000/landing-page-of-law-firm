@@ -1,0 +1,32 @@
+.sliders {
+    /* display: flex;
+    flex-direction: column; */
+    border: 1.4px solid var(--color-text);
+    background-color: var(--color-off);
+    color: var(--color-white);
+    border-radius: 14px;
+    padding: 1rem;
+    width: 359px;
+    height: 300px;
+}
+
+.sliders img {
+    width: 105px;
+    height: auto;
+}
+
+.sliders h3 {
+    font-weight: 600;
+    size: 24px;
+}
+
+.sliders h4 {
+    font-weight: 400;
+    size: 14px;
+}
+
+.sliders p {
+    font-weight: 500;
+    size: 14px;
+    color: var(--color-text);
+}

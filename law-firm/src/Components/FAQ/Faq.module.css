@@ -1,0 +1,26 @@
+.faq {
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-bottom: 5rem;
+    background-color: var(--color-off);
+    color:var(--color-white);
+    gap: 10rem;
+}
+
+.accordian {
+    width: 50%;
+    padding-top: 10rem;
+    background-color: var(--color-off);
+}
+
+.accordianStart {
+    background-color: var(--color-off);
+    color: var(--color-white);
+}
+
+.text {
+    color: var(--color-text);
+}

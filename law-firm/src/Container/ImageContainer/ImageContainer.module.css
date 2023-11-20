@@ -1,0 +1,13 @@
+.imageContainer {
+    width: 752px; 
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: center;
+    color: #fff; 
+    background-color: rgba(0, 0, 0, 0.6); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 14px;
+ }
